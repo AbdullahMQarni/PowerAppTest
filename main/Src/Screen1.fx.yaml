@@ -32,7 +32,7 @@ Screen1 As screen:
             LayoutMinHeight: =32
             LayoutMinWidth: =96
             Size: =25
-            Text: ="Hello"
+            Text: ="zg"
             VerticalAlign: ='TextCanvas.VerticalAlign'.Middle
             Width: =170
             X: =0
