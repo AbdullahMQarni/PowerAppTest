@@ -44,6 +44,7 @@ Screen1 As screen:
             Height: =32
             LayoutMinHeight: =32
             LayoutMinWidth: =96
+            OnSelect: =Navigate(Screen2, ScreenTransition.CoverRight)
             Width: =96
             X: =0
             Y: =0
