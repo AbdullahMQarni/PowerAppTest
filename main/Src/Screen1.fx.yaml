@@ -10,6 +10,21 @@ Screen1 As screen:
         Width: =Parent.Width
         ZIndex: =1
 
+        Header1_1 As Header:
+            DisplayMode: =DisplayMode.Edit
+            Height: =75
+            LayoutMinHeight: =75
+            LayoutMinWidth: =Parent.Width
+            OnSelectLogo: =false
+            Title: =App.ActiveScreen.Name
+            UserEmail: =User().Email
+            UserImage: =User().Image
+            UserName: =User().FullName
+            Width: =Parent.Width
+            X: =0
+            Y: =0
+            ZIndex: =1
+
         TextCanvas2 As Text:
             Align: ='TextCanvas.Align'.Center
             DisplayMode: =DisplayMode.Edit
@@ -22,5 +37,5 @@ Screen1 As screen:
             Width: =170
             X: =0
             Y: =0
-            ZIndex: =1
+            ZIndex: =2
 
