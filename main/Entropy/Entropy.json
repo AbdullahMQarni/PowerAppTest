@@ -3,22 +3,22 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "BottomContainer1": 21,
-    "Container2": 16,
-    "Header1": 26,
-    "Header1_1": 27,
+    "BottomContainer1": 6,
+    "Container2": 12,
+    "Header1": 10,
+    "Header1_1": 13,
     "Host": 3,
-    "MainContainer1": 23,
-    "Progress1": 25,
-    "Screen1": 4,
-    "Screen2": 18,
-    "ScreenContainer1": 19,
-    "SidebarContainer1": 22,
-    "TextCanvas2": 17
+    "MainContainer1": 8,
+    "Progress1": 9,
+    "Screen1": 11,
+    "Screen2": 4,
+    "ScreenContainer1": 5,
+    "SidebarContainer1": 7,
+    "TextCanvas2": 14
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "10/16/2024 09:46:47",
+  "HeaderLastSavedDateTimeUTC": "10/16/2024 10:18:47",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": true,
@@ -31,9 +31,9 @@
   },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {
-    "Header": 0,
-    "PowerApps_CoreControls_Progress": 2,
-    "PowerApps_CoreControls_TextCanvas": 1
+    "Header": 1,
+    "PowerApps_CoreControls_Progress": 0,
+    "PowerApps_CoreControls_TextCanvas": 2
   },
   "OrderTemplate": {},
   "OrderXMLTemplate": {
@@ -132,18 +132,15 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.10815,
+    "AnalysisLoadTime": 0.0615469,
     "ControlCount": {
-      "groupContainer": 3,
-      "Header": 1,
-      "icon": 1,
-      "label": 3,
-      "listbox": 1,
+      "groupContainer": 5,
+      "Header": 2,
       "PowerApps_CoreControls_Progress": 1,
-      "screen": 1,
-      "text": 1
+      "PowerApps_CoreControls_TextCanvas": 1,
+      "screen": 2
     },
-    "DeserializationLoadTime": 0.8639993
+    "DeserializationLoadTime": 1.108516
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
